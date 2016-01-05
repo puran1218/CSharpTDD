@@ -1,0 +1,9 @@
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.UnitTests\bin\Debug\TicTacToe.UnitTests.dll
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.UnitTests\bin\Debug\TicTacToe.UnitTests.pdb
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.UnitTests\bin\Debug\nunit.framework.dll
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.UnitTests\bin\Debug\TicTacToe.Services.dll
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.UnitTests\bin\Debug\TicTacToe.Services.pdb
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.UnitTests\bin\Debug\nunit.framework.xml
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.UnitTests\obj\Debug\TicTacToe.UnitTests.csprojResolveAssemblyReference.cache
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.UnitTests\obj\Debug\TicTacToe.UnitTests.dll
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.UnitTests\obj\Debug\TicTacToe.UnitTests.pdb

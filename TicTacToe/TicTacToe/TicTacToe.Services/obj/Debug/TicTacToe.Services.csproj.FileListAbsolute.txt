@@ -1,0 +1,7 @@
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.dll
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.pdb
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.csprojResolveAssemblyReference.cache
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.dll
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.pdb
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.Services\bin\Debug\nunit.framework.dll
+D:\MyGit\CSharpTDD\TicTacToe\TicTacToe\TicTacToe.Services\bin\Debug\nunit.framework.xml
