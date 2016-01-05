@@ -1,0 +1,8 @@
+D:\programmer\programs\C#\Ch10CardLib\CardClient\bin\Debug\CardClient.exe.config
+D:\programmer\programs\C#\Ch10CardLib\CardClient\bin\Debug\CardClient.exe
+D:\programmer\programs\C#\Ch10CardLib\CardClient\bin\Debug\CardClient.pdb
+D:\programmer\programs\C#\Ch10CardLib\CardClient\bin\Debug\Ch10CardLib.dll
+D:\programmer\programs\C#\Ch10CardLib\CardClient\bin\Debug\Ch10CardLib.pdb
+D:\programmer\programs\C#\Ch10CardLib\CardClient\obj\Debug\CardClient.csprojResolveAssemblyReference.cache
+D:\programmer\programs\C#\Ch10CardLib\CardClient\obj\Debug\CardClient.exe
+D:\programmer\programs\C#\Ch10CardLib\CardClient\obj\Debug\CardClient.pdb
